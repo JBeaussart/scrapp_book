@@ -1,6 +1,6 @@
-# Add scan to images folder
-# scrap_book.rb line 13 : chane the name of document
-# ruby scrap_book.rb in terminal (Final CSV is generate in entrerpises.csv)
+1- Add scan to images folder
+2- scrap_book.rb line 13 : chane the name of document
+3- ruby scrap_book.rb
+(Final CSV is generate in entrerpises.csv)
 
-# IF
-# entrerpises.csv is ["COMPAGNY NAME", "","","",..,"COMPAGNY NAME"] : delete log.csv and relunch the script
+IF enterpises.csv is ["COMPAGNY NAME", "","","",..,"COMPAGNY NAME"] : delete log.csv and relunch the script
